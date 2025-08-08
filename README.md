@@ -68,4 +68,4 @@ user@neo:~/cyber-space$ cat about-me.txt
 
 ## 💬 Quote
 
-> “Hack the planet.” — Neo
+> "The world is code. Hack it." — Neo
