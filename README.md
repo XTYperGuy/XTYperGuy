@@ -9,7 +9,7 @@
 
 ## 🧠 About Me
 
-💻 Aspiring hacker with a passion for cybersecurity and ethical hacking  
+💻 Aspiring hacker with a passion for cybersecurity and (Sometimes) ethical hacking  
 💍 Taken ➜ Nina ♡  
 📍 Location ➜ 127.0.0.1 (Home Sweet Home)  
 🧠 Philosophy ➜ Break | Learn | Build | Repeat  
@@ -27,7 +27,8 @@
 **Languages:**  
 - Python  
 - Bash  
-- HTML / CSS  
+- C C++ C#
+- Rust (learning)
 - JavaScript (learning)
 
 **Tools:**  
@@ -43,17 +44,11 @@
 **OS:**  
 - Kali Linux  
 - Arch  
-- Windows (dual boot)
+- Debian 11 - 12
 
 ## 📌 Pinned Repository
 
 🔗 [https://github.com/XTYperGuy/XTYperGuy](https://github.com/XTYperGuy/XTYperGuy)
-
-## 📊 GitHub Stats
-
-• Contributions: Just getting started...  
-• Public Repo: Available  
-• Actively updating profile  
 
 ## 🧪 Terminal Log
 
