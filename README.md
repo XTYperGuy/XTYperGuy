@@ -30,8 +30,13 @@
 - C
 - C++
 - C#
+- TypeScript
 - Rust (learning)
 - JavaScript (learning)
+
+**Tools & Frameworks:**
+- npm
+- Next.js
 
 **Tools:**  
 - Nmap  
