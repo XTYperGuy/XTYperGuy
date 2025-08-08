@@ -27,7 +27,9 @@
 **Languages:**  
 - Python  
 - Bash  
-- C C++ C#
+- C
+- C++
+- C#
 - Rust (learning)
 - JavaScript (learning)
 
@@ -40,6 +42,8 @@
 **Editors:**  
 - Visual Studio Code  
 - Neovim
+- Vim
+- Nano
 
 **OS:**  
 - Kali Linux  
