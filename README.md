@@ -1,16 +1,76 @@
-## Hi there 👋
+# Advanced GitHub Profile README - ♡ Neo ♡
 
-<!--
-**XTYperGuy/XTYperGuy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+> ♡ Neo ♡ | Hacker / Hacking 💻 | Cybersecurity Enthusiast | Always Learning New Exploits
 
-Here are some ideas to get you started:
+🖥️ OS: Kali Linux  
+📝 Editor: VS Code  
+💻 Terminal: zsh  
+💗 Status: Taken by Nina  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧠 About Me
+
+💻 Aspiring hacker with a passion for cybersecurity and ethical hacking  
+💍 Taken ➜ Nina ♡  
+📍 Location ➜ 127.0.0.1 (Home Sweet Home)  
+🧠 Philosophy ➜ Break | Learn | Build | Repeat  
+🖤 Aesthetic ➜ Mirror pics, Terminal themes, and Dark mode everything  
+
+## 🔧 My Setup
+
+• OS: Kali Linux / Arch based  
+• Editor: VS Code / Neovim  
+• Terminal: zsh + oh-my-zsh  
+• Shell: Customized with themes & aliases
+
+## ⚔️ Tech Stack
+
+**Languages:**  
+- Python  
+- Bash  
+- HTML / CSS  
+- JavaScript (learning)
+
+**Tools:**  
+- Nmap  
+- Wireshark  
+- Burp Suite  
+- Metasploit
+
+**Editors:**  
+- Visual Studio Code  
+- Neovim
+
+**OS:**  
+- Kali Linux  
+- Arch  
+- Windows (dual boot)
+
+## 📌 Pinned Repository
+
+🔗 [https://github.com/XTYperGuy/XTYperGuy](https://github.com/XTYperGuy/XTYperGuy)
+
+## 📊 GitHub Stats
+
+• Contributions: Just getting started...  
+• Public Repo: Available  
+• Actively updating profile  
+
+## 🧪 Terminal Log
+
+```
+user@neo:~$ whoami  
+♡ Neo ♡ — Hacker | Dreamer | Tinkerer
+
+user@neo:~$ cd ~/cyber-space
+
+user@neo:~/cyber-space$ cat about-me.txt  
+💻 Self-taught coder & cybersecurity enthusiast  
+💍 Taken ➜ Nina ♡  
+🌐 IP: 127.0.0.1 — always local  
+🧠 Mindset: Break. Learn. Repeat.  
+📸 Aesthetic: Dark mode + Mirrors  
+```
+
+## 💬 Quote
+
+> “Hack the planet.” — Neo
